@@ -1,0 +1,4 @@
+../Drivers/BSP/STM32F769I-Discovery/stm32f769i_discovery_ts.c:165:9:BSP_TS_Init	24	static
+../Drivers/BSP/STM32F769I-Discovery/stm32f769i_discovery_ts.c:226:9:BSP_TS_ITConfig	32	static
+../Drivers/BSP/STM32F769I-Discovery/stm32f769i_discovery_ts.c:260:9:BSP_TS_GetState	48	static
+../Drivers/BSP/STM32F769I-Discovery/stm32f769i_discovery_ts.c:449:13:BSP_TS_INT_MspInit	32	static
